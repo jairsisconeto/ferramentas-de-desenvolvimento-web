@@ -15,4 +15,4 @@ Este repositório contém os arquivos criados para a conclusão da atividade, co
 
 A aplicação completa e navegável pode ser acessada através deste link (URL):
 
-[INSERIR O LINK PÚBLICO AQUI]
+https://jairsisconeto.github.io/ferramentas-de-desenvolvimento-web/
